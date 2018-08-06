@@ -1,0 +1,2 @@
+# jstypecgf
+type object
