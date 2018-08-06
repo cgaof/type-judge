@@ -1,0 +1,15 @@
+{
+  "name": "jstypecgf",
+  "version": "1.0.4",
+  "description": "js type judge",
+  "main": "judge",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "type"
+  ],
+  "author": "cgf",
+  "license": "ISC"
+}
