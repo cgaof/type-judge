@@ -1,4 +1,4 @@
-# jstypecgf v1.0.4
+# jstypecgf v1.0.5
 
 The library exported as [Node.js](https://nodejs.org/) modules.
 
