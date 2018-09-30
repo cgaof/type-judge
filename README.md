@@ -10,10 +10,29 @@ $ npm i -g npm
 $ npm i --save jstypecgf
 ```
 
-In Node.js:
-```js
-// Load the full build.
-import jstypecgf from "jstypecgf"
+## Example
+``` javascript
+import jsType from jstypecgf
+jsType.isBoolean()
+jsType.isNumber()
+jsType.isString()
+jsType.isFunction()
+jsType.isArray()
+jsType.isDate()
+jsType.isRegExp()
+jsType.isObject()
+jsType.isError()
+console.log(jsType.isBoolean([1, 2, 3]))
+// => false
+
+console.log(jsType.isBoolean(false))
+// => true
+
+```
+
+
+## LICENSE [MIT](LICENSE)
+
 
 
 

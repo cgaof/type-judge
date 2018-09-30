@@ -1,15 +1,24 @@
 {
   "name": "jstypecgf",
-  "version": "1.0.4",
-  "description": "js type judge",
-  "main": "judge",
+  "version": "1.0.5",
+  "description": "A small module to check javascript type",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caogaofeng0/jstypecgf"
+  },
+  "bugs": {
+    "url": "https://github.com/caogaofeng0/jstypecgf/issues"
+  },
   "keywords": [
-    "js",
-    "type"
+    "jstypecgf",
+    "javascript",
+    "type",
+    "object"
   ],
   "author": "cgf",
-  "license": "ISC"
+  "license": "MIT"
 }
