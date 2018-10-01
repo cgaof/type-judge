@@ -1,4 +1,4 @@
-# jstypecgf v1.0.6
+# type-judge v1.0.7
 
 The library exported as [Node.js](https://nodejs.org/) modules.
 
@@ -7,12 +7,13 @@ The library exported as [Node.js](https://nodejs.org/) modules.
 Using npm:
 ```shell
 $ npm i -g npm
-$ npm i --save jstypecgf
+$ npm i --save type-judge
 ```
 
 ## Example
 ``` javascript
-import jsType from jstypecgf
+import jsType from type-judge
+
 jsType.isBoolean()
 jsType.isNumber()
 jsType.isString()
@@ -22,6 +23,7 @@ jsType.isDate()
 jsType.isRegExp()
 jsType.isObject()
 jsType.isError()
+
 console.log(jsType.isBoolean([1, 2, 3]))
 // => false
 

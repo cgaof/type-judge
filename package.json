@@ -1,6 +1,6 @@
 {
   "name": "type-judge",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A small module to check javascript type",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/caogaofeng0/jstypecgf"
+    "url": "https://github.com/caogaofeng0/type-judge"
   },
   "bugs": {
-    "url": "https://github.com/caogaofeng0/jstypecgf/issues"
+    "url": "https://github.com/caogaofeng0/type-judge/issues"
   },
   "keywords": [
     "type-judge",
