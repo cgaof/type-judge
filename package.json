@@ -1,5 +1,5 @@
 {
-  "name": "jstypecgf",
+  "name": "type-judge",
   "version": "1.0.6",
   "description": "A small module to check javascript type",
   "main": "index.js",
@@ -14,10 +14,11 @@
     "url": "https://github.com/caogaofeng0/jstypecgf/issues"
   },
   "keywords": [
-    "jstypecgf",
-    "javascript",
+    "type-judge",
     "type",
-    "object"
+    "object",
+    "judge",
+    "javascript"
   ],
   "author": "cgf",
   "license": "MIT"
