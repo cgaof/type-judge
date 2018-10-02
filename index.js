@@ -4,4 +4,4 @@ var jsType = {};
         return {}.toString.call(obj) == "[object " + item + "]";
     };
 });
-export default jsType;
+module.exports = jsType;

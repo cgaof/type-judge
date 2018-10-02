@@ -21,5 +21,8 @@
     "javascript"
   ],
   "author": "cgf",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
