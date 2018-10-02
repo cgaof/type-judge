@@ -1,5 +1,4 @@
-# type-judge v1.0.7
-
+# type-judge 
 The library exported as [Node.js](https://nodejs.org/) modules.
 
 ## Installation

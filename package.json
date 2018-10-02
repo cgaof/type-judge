@@ -1,6 +1,6 @@
 {
   "name": "type-judge",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A small module to check javascript type",
   "main": "index.js",
   "scripts": {
